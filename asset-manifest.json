@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/esarar/Reactjs.git/static/css/main.fcb9b1dd.css",
+    "main.js": "/esarar/Reactjs.git/static/js/main.ba9e8010.js",
+    "static/media/me.png": "/esarar/Reactjs.git/static/media/me.f41ab88989163bf474e2.png",
+    "index.html": "/esarar/Reactjs.git/index.html",
+    "main.fcb9b1dd.css.map": "/esarar/Reactjs.git/static/css/main.fcb9b1dd.css.map",
+    "main.ba9e8010.js.map": "/esarar/Reactjs.git/static/js/main.ba9e8010.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb9b1dd.css",
+    "static/js/main.ba9e8010.js"
+  ]
+}
